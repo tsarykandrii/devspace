@@ -1,0 +1,27 @@
+1) E
+
+2) 0010.aaaa.aaaa
+
+3) Ethernet 2
+
+4) E
+
+5) 0010.aaaa.aaaa
+
+6) K
+
+7) HDLC
+
+8) B
+
+9) 0010.2222.2222
+
+10) Ethernet 2
+
+11) B
+
+12) 0010.2222.2222
+
+13) Ethernet 2
+
+
