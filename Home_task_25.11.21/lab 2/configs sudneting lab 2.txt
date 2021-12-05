@@ -1,0 +1,51 @@
+2^4 -2 -> 14 hosts (/28)
+192.168.1.64/26 move to mask  /28
+                                          dec
+network  192.168.1.64/28                01000000
+first host 192.168.1.65
+last host  192.168.1.78
+last2 host 192.168.1.77
+last3 host 192.168.1.76
+broadcast  192.168.1.79
+
+network  192.168.1.80/28                01010000
+first host 192.168.1.81
+last host  192.168.1.94
+last2 host 192.168.1.93
+last3 host 192.168.1.92
+broadcast  192.168.1.95
+
+network  192.168.1.96/28                01100000
+first host 192.168.1.97
+last host  192.168.1.110
+last2 host 192.168.1.109
+broadcast  192.168.1.111
+
+network  192.168.1.112/28               01110000
+first host 192.168.1.113
+last host  192.168.1.126
+broadcast  192.168.1.127
+
+--------------------------------------------------------
+2^2 -2 -> 2 hosts (/30)
+192.168.1.112/28 move to mask /30
+                                          dec
+network    192.168.1.112/30             01110000
+first host 192.168.1.113
+last host  192.168.1.114
+broadcast  192.168.1.115
+
+network    192.168.1.116/30             01110100
+first host 192.168.1.117
+last host  192.168.1.118
+broadcast  192.168.1.119
+
+network    192.168.1.120/30             01111000
+first host 192.168.1.121
+last host  192.168.1.122
+broadcast  192.168.1.123
+
+network    192.168.1.124/30             01111100
+first host 192.168.1.125
+last host  192.168.1.126
+broadcast  192.168.1.127
