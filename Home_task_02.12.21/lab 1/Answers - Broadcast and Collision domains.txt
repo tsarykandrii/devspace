@@ -1,0 +1,21 @@
+1. arp, broadcast packet.
+
+2. pc2, pc3, pc4.
+
+3. pc1, pc2, pc3.
+
+4. pc2, pc3, pc4.
+
+5. arp, broadcast packet.
+
+6. pc6, pc7, pc8.
+
+7. pc5
+
+8. pc8
+
+9. Single broadcast in network 1.
+
+10. Single broadcast in network 2.
+
+11. Network 1 = single collisin domain, network 4 = 4 collision domains
